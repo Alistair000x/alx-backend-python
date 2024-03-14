@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from typing import Any
-# this is how you can add float a to float b
+''' task 1 '''
 def add(a: float, b: float) -> float:
+    '''sum of the two floats'''
     return a + b
